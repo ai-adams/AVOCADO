@@ -2,6 +2,7 @@
 
 AVOCADO is an application that allows the user to upload any standard image, automatically generate a caption that describes the image, and automatically detect the number of faces in an image.
 
+VIDEO DEMO: https://www.linkedin.com/feed/update/urn:li:activity:6733116808653488128/
 
 
 ## Project Description
